@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+*~
+
+# Homebrew local test artifacts
+/Library/
